@@ -1,3 +1,4 @@
+# This is My first attempt at using Flask but I am already familiar with Python so I could understand the logic behind it with some basics in HTML, I did this.
 import flask
 from flask import Flask, render_template, request, redirect, url_for
 import csv
